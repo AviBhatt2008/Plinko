@@ -1,2 +1,2 @@
-# Plinko
-Click on the screen to spawn a particle. Try and get the highest score possible!
+# p5.play-boilerplate
+Boiler plate for p5.play
